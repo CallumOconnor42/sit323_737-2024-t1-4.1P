@@ -1,0 +1,15 @@
+{
+  "name": "sit323_737-2024-t1-4.1p",
+  "version": "1.0.0",
+  "description": "\"# sit323_737-2024-t1-4.1P\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
