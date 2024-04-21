@@ -1,7 +1,7 @@
 {
-  "name": "sit323_737-2024-t1-4.1p",
+  "name": "docker_web_app",
   "version": "1.0.0",
-  "description": "\"# sit323_737-2024-t1-4.1P\"",
+  "description": "\"# Node.js on Docker\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
